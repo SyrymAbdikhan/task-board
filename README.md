@@ -16,6 +16,17 @@ A task manager built with Vue 3 and Supabase. Create boards, drag tasks between 
 - **Members** — board owner can see and remove editors, editors can leave the board
 - **Profile** — edit display name and email address
 
+## Screenshots
+
+**Login**
+![Login](docs/screenshots/login.png)
+
+**Dashboard**
+![Dashboard](docs/screenshots/dashboard.png)
+
+**Board View**
+![Board View](docs/screenshots/board.png)
+
 ## Tech Stack
 
 - [Vue 3](https://vuejs.org/) (Composition API)
