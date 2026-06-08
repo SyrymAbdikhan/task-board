@@ -67,6 +67,12 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173)
 
+## Demo
+
+A live demo is available at [task-board.shetel.dev](https://task-board.shetel.dev/)
+
+Email and password: `securesharona@sharebot.net`
+
 ## Deploy to Vercel
 
 1. [Fork this repo](https://github.com/SyrymAbdikhan/task-board/fork)
